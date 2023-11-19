@@ -16,6 +16,7 @@
 
 /* Render list items as a row inside each day's cell */
 #novemberDays li {
+    list-style: none; /* Hide the bullet points */
     display: inline-block;
     width: 100%;
     box-sizing: border-box;

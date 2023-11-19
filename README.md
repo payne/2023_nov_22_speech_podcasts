@@ -5,20 +5,19 @@ Visionary Communication path’s project “Researching and Presenting.”
 ```mermaid
 
 mindmap
-  root((mindmap))
-    Origins
+  root((podcasts))
+    News
       Long history
-      ::icon(fa fa-book)
       Popularisation
         British popular psychology author Tony Buzan
-    Research
+    Education
       On effectiveness<br/>and features
       On Automatic creation
         Uses
             Creative techniques
             Strategic planning
             Argument mapping
-    Tools
+    Journalism
       Pen and paper
       Mermaid
 

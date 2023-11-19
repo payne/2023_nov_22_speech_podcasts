@@ -1,0 +1,11 @@
+/* FILEPATH: /workspaces/2023_nov_22_speech_podcasts/index.css */
+
+ol {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-gap: 10px; /* Adjust the gap between grid items as needed */
+}
+
+li {
+  /* Add any additional styling for list items */
+}

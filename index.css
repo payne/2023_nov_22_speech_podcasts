@@ -1,8 +1,15 @@
-/* FILEPATH: /workspaces/2023_nov_22_speech_podcasts/index.css */
-
 ol {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
+    grid-gap: 10px; /* Adjust the gap between grid items as needed */
+    border: 1px solid black; /* Add a solid border around each cell */
+}
+
+li {
+    /* Add any additional styling for list items */
+    border-bottom: 1px solid black; /* Add a solid black line between each row */
+}
+    
     grid-gap: 10px; /* Adjust the gap between grid items as needed */
     border: 1px solid black; /* Add a solid border around each cell */
 }
